@@ -1,0 +1,20 @@
+Cheese Pizza
+9.30
+Pepperoni Pizza
+10.50
+Garden Fresh Pizza
+9.15
+Spicy Italian Pizza
+14.45
+Hawaiian BBQ Chicken Pizza
+13.60
+Spinach Alfredo Pizza
+12.50
+Breadsticks
+5.75
+Cheesesticks
+6.40
+Spicy Buffalo Wings
+8.25
+Coke
+3.40

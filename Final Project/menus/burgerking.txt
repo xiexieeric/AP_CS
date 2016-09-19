@@ -1,0 +1,20 @@
+Whopper
+4.35
+Double Whopper
+4.90
+Double Stacker
+5.25
+TenderCrisp
+4.70
+Steakhouse XT Burger
+5.85
+Chicken Tenders
+3.50
+Fries
+2.45
+Chicken Fries
+4.90
+Drink
+1.75
+Frozen Cherry 
+3.75

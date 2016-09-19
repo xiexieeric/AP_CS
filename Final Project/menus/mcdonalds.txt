@@ -1,0 +1,20 @@
+Hamburger
+1.50
+Cheeseburger
+2
+Double Cheeseburger
+3.50
+Filet-O-Fish
+3.00
+Quarter Pounder
+4.00
+Angus Chipotle BBQ Bacon Burger
+5.90
+McRib
+3.50
+French Fries
+2.50
+Soda
+1.50
+McFlurry
+3.45
